@@ -1,0 +1,20 @@
+.img-about{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-about img{
+  width: 60%;
+  margin-top: 2rem;
+  border-radius: 50%;
+  outline: 2px solid #fcc40f;
+}
+.text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: #fcc40f !important;
+  text-transform: capitalize;
+}
